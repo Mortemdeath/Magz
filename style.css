@@ -1,0 +1,26 @@
+#Login_Info {
+		text-align: center;
+}
+input {
+	display: block;
+	margin: 0 auto;
+  width: 250px;
+}
+#Text {
+  text-align: center;
+  font-size: 45px;
+}
+
+
+button {
+  border-radius: 12px;
+  background-color: white;
+  color: black;
+  border: 2px solid #04AA6D; /* Green */
+  width: 250px;
+}
+button:hover {
+  background-color: #04AA6D; /* Green */
+  color: white;
+   box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
